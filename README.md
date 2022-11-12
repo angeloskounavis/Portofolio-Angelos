@@ -11,6 +11,6 @@ Estimate of time needed to complete: 4 hours
 
 Start time: 4:00pm
 
-Finish time: _____
+Finish time: Saturday at 4:52
 
-Actual time needed to complete: _____
+Actual time needed to complete: 5 hours or more
